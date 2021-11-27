@@ -1,2 +1,2 @@
-# Socket-Programming
-Implementation of sockets.
+# Network Programming
+Simple code to understand networking concepts.

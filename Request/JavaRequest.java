@@ -1,3 +1,14 @@
+/*
+    This is an simple demonstration about how to make an HTTP resquest in Java.
+    In the following demo, I have creted an HTTP request to get information about a github user
+    using the available github api.
+    
+    I have used Java's Net library for the HTTP request and GSON library for serializing the Java object and JSON. 
+*/
+
+/*
+    @author Harivansh Thakur
+*/
 package javaRequestExample;
 
 import com.google.gson.Gson;
